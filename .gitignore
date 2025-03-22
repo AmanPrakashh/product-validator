@@ -1,0 +1,28 @@
+# Rust build directory
+target/
+**/*.rs.bk
+
+# Node modules
+node_modules/
+
+# Solana
+.anchor/
+.DS_Store
+test-ledger/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
