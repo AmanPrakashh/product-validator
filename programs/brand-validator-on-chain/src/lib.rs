@@ -1,6 +1,7 @@
 use anchor_lang::prelude::*;
 
 // TODO: Update this after deployment
+// this is my test net id update it with your company public id before deployment or for running in you test net s
 declare_id!("B6UasArGY3jpGk9wXif5yvgmgB24NMrms9RCGDhn4v7r");
 
 // Replace with your company public id
